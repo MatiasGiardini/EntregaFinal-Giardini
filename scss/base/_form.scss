@@ -1,0 +1,40 @@
+.formulario{
+    padding: 1.8rem 0 1.8rem 1.8rem;
+    margin: 1.5rem auto;
+    max-width: 70%;
+    border: 1px solid gray;
+}
+
+fieldset{
+    border: none;
+}
+
+legend{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+label{
+    color: black;
+    text-transform: uppercase;
+    vertical-align: top;
+    text-align: right;
+}
+
+input{
+    margin: 0 0 10px 10px;
+    padding: 15px;
+    align-items: center;
+}
+
+input:focus, textarea:focus{
+    outline: none;
+    border: 1px solid ;
+}
+
+textarea{
+    resize: none;
+    margin: 0 0 10px 10px;
+    padding: 15px;
+    align-items: center
+}
