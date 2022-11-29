@@ -56,6 +56,17 @@ header h1 {
   transition: all 0.4s;
 }
 
+.boton_buscar:hover {
+  background-color: grey;
+  border-color: white;
+}
+
+.boton_buscar {
+  border-color: grey;
+  color: grey;
+  border-radius: 20%;
+}
+
 footer {
   margin-top: 4%;
   padding-top: 2%;
