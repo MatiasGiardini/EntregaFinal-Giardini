@@ -88,6 +88,11 @@ section iframe {
   max-height: 100%;
 }
 
+.lista_de_footer:hover {
+  background-color: rgb(161, 161, 161);
+  color: white;
+}
+
 @media (max-width: 570px) {
   figure img {
     width: 100%;
