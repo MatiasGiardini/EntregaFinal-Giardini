@@ -67,12 +67,17 @@ header h1 {
   border-radius: 20%;
 }
 
+.barrita {
+  font-family: Silkscreen;
+}
+
 footer {
   margin-top: 4%;
   padding-top: 2%;
   background-color: rgb(97, 97, 97);
   padding-bottom: 2%;
   margin-bottom: 0;
+  font-family: Roboto Condensed;
 }
 
 @media screen and (max-width: 768px) {
